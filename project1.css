@@ -1,0 +1,57 @@
+body {
+    background-image: url('C:\Users\joebo\Desktop\Public_HTML\nissan-z-body-kit-by-liberty-walk.jpg');
+    background-size: cover; /* This ensures the image covers the whole page */
+    background-position: center; /* This centers the image on the page */
+    color: #333;
+    font-family: Georgia, Garamond, serif;
+    font-size: 14pt;
+}
+/* Navigation Bar Styles */
+nav {
+    background-color: #333; /* Dark background color */
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+h1 {
+    text-align: center;
+    font-size: 28pt;
+    font-weight: bold;
+    color: #1100ff;
+    background-color: #ffffff;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: left;
+    font-size: 20pt;
+    font-family: Century Gothic, Futura, Verdana, sans-serif;
+    color: #fde402;
+    background-color: #00b7ff;
+    text-decoration: underline;
+}
+
+a {
+    color: #fde402; /* Same as headings */
+}
